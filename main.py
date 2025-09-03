@@ -5,3 +5,8 @@
 
 # TAREA: IMPLEMENTAR UNA FUNCION EN UN FOLDER CON TU NOMBRE
 # IMPORTARLO EN ESTE ARCHIVO Y LLAMARLO
+
+def augustus():
+    print("Hola soy Augustus")
+augustus() #:D
+# --- IGNORE ---
