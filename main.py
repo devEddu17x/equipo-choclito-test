@@ -5,3 +5,6 @@
 
 # TAREA: IMPLEMENTAR UNA FUNCION EN UN FOLDER CON TU NOMBRE
 # IMPORTARLO EN ESTE ARCHIVO Y LLAMARLO
+
+from helpers.silent import callate
+callate('grezia')
